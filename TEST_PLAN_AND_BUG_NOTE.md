@@ -1,7 +1,5 @@
 # Student Records Manager - Test Plan and Bug Note
-
-Nathanael David Sondakh, IT Business Innovation, Swiss German University
-
+// NATHANAEL & HANDY IT26
 Program file: student_manager.cpp
 
 Compiled with: `g++ -std=c++17 -Wall -Wextra student_manager.cpp -o student_manager` (no warnings)
